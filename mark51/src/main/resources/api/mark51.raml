@@ -1,0 +1,15 @@
+#%RAML 1.0
+title: New API
+mediaType:
+  - application/json
+/markList:
+  get:
+    description: Get Mark's all data
+    responses:
+      "200":
+        body:
+          application/json:
+            example:
+              value:
+                Status: Mark data retrieved successfully!
+            type: object
