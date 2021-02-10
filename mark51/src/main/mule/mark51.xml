@@ -136,7 +136,7 @@ attributes.queryParams.value]" doc:name="Set Variable" doc:id="c43c8029-e945-4cf
 output application/json
 ---
 {
-  Status : "Mark data retrieved successfully!"
+  Status : "Mark data retrieved successfully!!"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
